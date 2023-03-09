@@ -1,0 +1,7 @@
+<root>
+    <item name='sun.security.util.ArrayUtil void swap(byte[], int, int)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="mutates" val="&quot;param1&quot;"/>
+        </annotation>
+    </item>
+</root>
